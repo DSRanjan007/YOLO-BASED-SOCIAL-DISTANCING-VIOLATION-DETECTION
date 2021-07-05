@@ -1,0 +1,4 @@
+1. SUPPORTING FILES
+A."coco.names" : https://github.com/pjreddie/darknet/blob/master/data/coco.names
+B."yolov3.cfg" : https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+C."yolov3.weights" : Provided in main folder 
