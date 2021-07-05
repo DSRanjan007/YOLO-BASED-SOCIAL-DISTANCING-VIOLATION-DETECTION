@@ -45,4 +45,4 @@ considered a real-world video as our dataset.
 Tensorflow Lite).
 
 # Demo
-![Demo](Demo.gif)
+![Demo](Demo2.gif)
